@@ -20,5 +20,11 @@ m = max(tots)
 
 tots.sort()
 
-print(m, sum(tots[-3:]))
+print('Part One:')
+print(m)
+
+print('*-'*30)
+
+print('Part Two:')
+print(sum(tots[-3:]))
         
