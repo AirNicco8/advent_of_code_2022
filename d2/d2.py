@@ -44,6 +44,7 @@ for line in lines:
     top = revres(outcomes[0], dec2)
 
     l2+=(dec2+val[top])
+    
 print('Part one:')
 print(l)
 
