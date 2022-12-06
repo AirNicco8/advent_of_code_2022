@@ -9,6 +9,5 @@ print(s)
 
 print('*-'*30)
 
-
 print('Part Two:')
 print(s2)
