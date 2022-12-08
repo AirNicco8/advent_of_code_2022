@@ -2,6 +2,9 @@ d = 0 # day problem number
 with open('inputd{}.txt'.format(d), 'r') as f:
     lines = f.readlines()
 
+with open('duminput.txt'.format(d), 'r') as f:
+    lines = f.readlines()
+
 # insert problem code here
     
 print('Part one:')
