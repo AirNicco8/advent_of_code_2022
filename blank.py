@@ -5,6 +5,8 @@ with open('inputd{}.txt'.format(d), 'r') as f:
 with open('duminput.txt'.format(d), 'r') as f:
     lines = f.readlines()
 
+s=0
+s2=0
 # insert problem code here
     
 print('Part one:')
